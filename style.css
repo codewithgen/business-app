@@ -380,7 +380,10 @@ blockquote {
   }
 
   .mobile-image {
-    margin-top: -11.25rem;
+    /* margin-top: -11.25rem; */
+    margin-top: 10rem;
+    position: relative;
+    top: 3cm;
   }
 
   .btn-black {
