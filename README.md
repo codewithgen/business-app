@@ -16,6 +16,7 @@ This is a solution to the [Business Application Challange](https://www.frontendm
 - [Acknowledgments](#acknowledgments)
 
 
+
 ## Overview
 
 ### The challenge
@@ -61,6 +62,6 @@ In the future I would like to focus on incorporating JS into all my project and 
 
 ## Author
 
-- Website - [Genesis](https://www.your-site.com)
+- Website - [Genesis](https://chipper-kitsune-ed0e41.netlify.app/)
 - Frontend Mentor - [@codewithgen](https://www.frontendmentor.io/profile/codewithgen)
 
