@@ -201,6 +201,12 @@ picture img {
   gap: 1.5rem;
 }
 
+.social i:hover {
+  background-image: linear-gradient(135deg, rgb(129, 130, 152) 0%, rgb(186, 167, 185) 34%, rgb(193, 187, 214) 71%, rgb(214, 205, 187) 91%);
+  padding: 15px;
+  border-radius: 15px;
+}
+
 .date {
   font-weight: bolder;
 }
@@ -506,7 +512,7 @@ blockquote {
   }
 
   .btn-black:hover {
-    background: linear-gradient(135deg, #A060FF 0%, #CB30E3 49.21%, #FFA84E 100%);
+    background: linear-gradient(135deg, rgb(129, 130, 152) 0%, rgb(186, 167, 185) 34%, rgb(193, 187, 214) 71%, rgb(214, 205, 187) 91%);
     transition: all ease 0.3s;
     cursor: pointer;
     border: 0rem solid;
